@@ -1,0 +1,22 @@
+{
+  "name": "vehicle_price_api",
+  "version": "1.0.0",
+  "description": "Using node to fetch value from api and posting it to mysql db",
+  "main": "fetch_data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legndery/vehicle_price_api.git"
+  },
+  "author": "legndery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legndery/vehicle_price_api/issues"
+  },
+  "homepage": "https://github.com/legndery/vehicle_price_api#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
